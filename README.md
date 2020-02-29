@@ -55,14 +55,6 @@ Statistics on NHS Stop Smoking Services Campaign:
 
 [https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-nhs-stop-smoking-services-in-england](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-nhs-stop-smoking-services-in-england)
 
-### Hospital diagnosis statistics
-
-Hospital Episode Statistics: **TODO Request access to HES by Local Authority and with relevant diseases(list below) would be ideal to get a list with all relevant incidence of diagnosis**
-
-[https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/users-uses-and-access-to-hospital-episode-statistics](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/users-uses-and-access-to-hospital-episode-statistics)
-
-[Relevant diseases](https://www.notion.so/d4c3a384b94346ee84fb55eb17a81289)
-
 ### General Datasets
 
 GP Workforce:
